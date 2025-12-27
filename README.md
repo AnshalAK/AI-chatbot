@@ -46,8 +46,8 @@ The goal of this project is to demonstrate the integration of frontend and backe
 
 ## Project Structure
 ```text
-ai-chatbot/
-├── frontend/
-├── backend/
+
+├── chat
+├── chatbot back
 ├── README.md
 └── .gitignore
